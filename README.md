@@ -1,4 +1,6 @@
+<link rel="stylesheet" href="styles.css" />
 <!-- Github emoji icon list https://gist.github.com/rxaviers/7360908 -->
+
 ## Hi there 👋
 
 <!--
