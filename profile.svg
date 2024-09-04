@@ -13,6 +13,9 @@
                 100% { transform: rotate( 0.0deg) }
                 }
 
+                body {
+                  background-color: black;
+                }
                 .container {
                 background-color: black;
 
