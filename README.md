@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="styles.css" />
 <!-- Github emoji icon list https://gist.github.com/rxaviers/7360908 -->
 
-<div class="container" style="width: 100%;">
-  <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 
 <!--
 **r0nn1ef/r0nn1ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
