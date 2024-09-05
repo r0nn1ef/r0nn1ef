@@ -2,6 +2,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Home](https://drupalodyssey.com/home)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
