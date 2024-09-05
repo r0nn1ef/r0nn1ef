@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="styles.css" />
-<!-- Github emoji icon list https://gist.github.com/rxaviers/7360908 -->
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ron Ferguson!
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **r0nn1ef/r0nn1ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
