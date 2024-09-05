@@ -1,6 +1,18 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ron Ferguson!
 
-## Blog posts
+---
+
+## About me
+I am a self-taught software developer with over 20 years of experience and has been a member of several award-winning 
+development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
+solve real-world problems.
+
+As an active member of Drupal.org, I have contributed several code additions, documentation, and how-to's. Current and 
+previous clients and employers include Space Foundation, Analytical Graphics, Inc., Yellowbook, Texas Roadhouse, 
+The Cheesecake Factory, local school organizations, and others.
+
+---
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/development/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
@@ -12,6 +24,10 @@
 
 [Crafting Your Online Store: Drupal&#39;s Role in Your Etsy Success](https://drupalodyssey.com/blog/community/crafting-your-online-store-drupals-role-your-etsy-success?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
+
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077C0,100:00598E&textBg=false&section=footer&reversal=true" alt="Capsule-Render Generator" />
+</div>
 
 <!--
 [Sample link](https://drupalodyssey.com?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
