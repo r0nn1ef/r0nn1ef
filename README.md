@@ -6,10 +6,6 @@ I am a self-taught software developer with over 20 years of experience and has b
 development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
 solve real-world problems.
 
-As an active member of Drupal.org, I have contributed several code additions, documentation, and how-to's. Current and 
-previous clients and employers include Space Foundation, Analytical Graphics, Inc., Yellowbook, Texas Roadhouse, 
-The Cheesecake Factory, local school organizations, and others.
-
 ---
 
 ## Latest Blog Posts
