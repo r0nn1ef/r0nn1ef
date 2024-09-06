@@ -4,14 +4,37 @@ development teams. I am passionate about open-source technologies and leveraging
 solve real-world problems.
 
 ### :hammer::wrench: My Toolbox
-|             |                                                                                                                                                                                                                                                                  |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Languages   |                                                                                                                                                                                                                                                                  |
-| Development | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) |
-| Database    |                                                                                                                                                                                                                                                                  |
-| Servers     |                                                                                                                                                                                                                                                                  |
-| CMS         |                                                                                                                                                                                                                                                                  |
-| Design      |                                                                                                                                                                                                                                                                  |
+<table>
+  <tbody>
+    <tr>
+      <td>Languages</td>
+      <td>
+        ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+        ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+      </td>
+    </tr>
+    <tr>
+      <td>Development</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Servers</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CMS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Design</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## :black_nib: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
