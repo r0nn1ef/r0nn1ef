@@ -21,6 +21,8 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white" alt="Linux Mint" />
         <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Pi" />
         <img src="https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm" />
+        <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm" />
+        <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
       </td>
     </tr>
     <tr></tr>
