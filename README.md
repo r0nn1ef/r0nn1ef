@@ -3,8 +3,6 @@ I am a self-taught software developer with over 20 years of experience and has b
 development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
 solve real-world problems.
 
----
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/development/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
