@@ -36,7 +36,7 @@ solve real-world problems.
     </tr>
     <tr></tr>
     <tr>
-      <td>Servers</td>
+      <td>Web</td>
       <td>
         <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
         <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache2" />
