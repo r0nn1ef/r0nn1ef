@@ -58,8 +58,6 @@ solve real-world problems.
       <td>
         <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13" alt="Inkscape" />
         <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF" alt="GIMP" />
-        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
       </td>
     </tr>
   </tbody>
