@@ -16,6 +16,16 @@ solve real-world problems.
     </tr>
     <tr></tr>
     <tr>
+      <td>Frameworks</td>
+      <td>
+        <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white" alt="Gulp" />
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
+        <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white" alt="Drupal" />
+        <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress" />
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
       <td>Development</td>
       <td>
         <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white" alt="Linux Mint" />
@@ -40,14 +50,6 @@ solve real-world problems.
       <td>
         <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
         <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache2" />
-      </td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td>CMS</td>
-      <td>
-        <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white" alt="Drupal" />
-        <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress" />
       </td>
     </tr>
     <tr></tr>
