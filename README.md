@@ -63,7 +63,7 @@ solve real-world problems.
   </tbody>
 </table>
 
-## :black_nib: Latest Blog Posts
+## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/development/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
