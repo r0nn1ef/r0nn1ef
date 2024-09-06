@@ -4,7 +4,7 @@ development teams. I am passionate about open-source technologies and leveraging
 solve real-world problems.
 
 ### :hammer::wrench: My Toolbox
-<table>
+<table width="100%">
   <tbody>
     <tr>
       <td>Languages</td>
