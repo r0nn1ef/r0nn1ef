@@ -3,35 +3,55 @@ I am a self-taught software developer with over 20 years of experience and has b
 development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
 solve real-world problems.
 
-### :hammer::wrench: My Toolbox
+### My Toolbox :hammer::wrench:
 <table width="100%">
   <tbody>
     <tr>
       <td>Languages</td>
       <td>
-        <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint" />
-        <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
       </td>
     </tr>
     <tr>
       <td>Development</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white" alt="Linux Mint" />
+        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm" />
+      </td>
     </tr>
     <tr>
       <td>Database</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </td>
     </tr>
     <tr>
       <td>Servers</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+        <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache2" />
+      </td>
     </tr>
     <tr>
       <td>CMS</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white" alt="Drupal" />
+        <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress" />
+      </td>
     </tr>
     <tr>
       <td>Design</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13" alt="Inkscape" />
+        <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF" alt="GIMP" />
+        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
+        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+      </td>
     </tr>
   </tbody>
 </table>
