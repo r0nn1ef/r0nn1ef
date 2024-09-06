@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assets/github-header-image.png" width="100%" height="auto" alt="Github Profile" />
-</div>
 ## About me
 I am a self-taught software developer with over 20 years of experience and has been a member of several award-winning 
 development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
