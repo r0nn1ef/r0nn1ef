@@ -3,7 +3,16 @@ I am a self-taught software developer with over 20 years of experience and has b
 development teams. I am passionate about open-source technologies and leveraging those technologies to help organizations 
 solve real-world problems.
 
-## Latest Blog Posts
+### :hammer::wrench: My Toolbox
+| ----------- | -------|
+| Languages   | |
+| Development | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)|
+| Database    | |
+| Servers     | |
+| CMS         | |
+| Design      | |
+
+## :black_nib: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/development/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
