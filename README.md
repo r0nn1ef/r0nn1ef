@@ -4,7 +4,7 @@ development teams. I am passionate about open-source technologies and leveraging
 solve real-world problems.
 
 ### My Toolbox :hammer::wrench:
-<table width="100%">
+<table>
   <tbody>
     <tr>
       <td>Languages</td>
@@ -14,6 +14,7 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>Development</td>
       <td>
@@ -22,6 +23,7 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>Database</td>
       <td>
@@ -30,6 +32,7 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>Servers</td>
       <td>
@@ -37,6 +40,7 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache2" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>CMS</td>
       <td>
@@ -44,6 +48,7 @@ solve real-world problems.
         <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>Design</td>
       <td>
