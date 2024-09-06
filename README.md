@@ -25,9 +25,7 @@ The Cheesecake Factory, local school organizations, and others.
 [Crafting Your Online Store: Drupal&#39;s Role in Your Etsy Success](https://drupalodyssey.com/blog/community/crafting-your-online-store-drupals-role-your-etsy-success?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077C0,100:00598E&textBg=false&section=footer&reversal=true" alt="Capsule-Render Generator" />
-</div>
+
 
 <!--
 [Sample link](https://drupalodyssey.com?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
