@@ -64,15 +64,15 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
+[Streamlining Drupal Deployments Using Drush and GitHub Actions CI/CD](https://drupalodyssey.com/blog/development/streamlining-drupal-deployments-using-drush-and-github-actions-cicd?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
+[Streamlined Content: Effortless PDF Display &amp; Management in Drupal](https://drupalodyssey.com/blog/management/streamlined-content-effortless-pdf-display-management-drupal?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/development/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Evaluating Search and Replace Scanner: The Ultimate Tool for Drupal Bulk Content Edits?](https://drupalodyssey.com/blog/management/evaluating-search-and-replace-scanner-ultimate-tool-drupal-bulk-content-edits?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [S3 File System Module Not Working with Media Entity Download Module? Here&#39;s the Fix](https://drupalodyssey.com/blog/community/s3-file-system-module-not-working-media-entity-download-module-heres-fix?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[Setting Up the Etsy OAuth2 Client For Use With The Etsy Shop Integration Module](https://drupalodyssey.com/blog/community/setting-etsy-oauth2-client-use-etsy-shop-integration-module?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[Crafting Your Online Store: Drupal&#39;s Role in Your Etsy Success](https://drupalodyssey.com/blog/community/crafting-your-online-store-drupals-role-your-etsy-success?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
