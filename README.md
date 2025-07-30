@@ -64,6 +64,8 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
+[Bulletproof Your Drupal Data With Automated Nightly Backups](https://drupalodyssey.com/blog/devops/bulletproof-your-drupal-data-automated-nightly-backups?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [Streamlining Drupal Deployments Using Drush and GitHub Actions CI/CD](https://drupalodyssey.com/blog/devops/streamlining-drupal-deployments-using-drush-and-github-actions-cicd?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Streamlined Content: Effortless PDF Display &amp; Management in Drupal](https://drupalodyssey.com/blog/management/streamlined-content-effortless-pdf-display-management-drupal?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
@@ -71,8 +73,6 @@ solve real-world problems.
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/devops/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Evaluating Search and Replace Scanner: The Ultimate Tool for Drupal Bulk Content Edits?](https://drupalodyssey.com/blog/management/evaluating-search-and-replace-scanner-ultimate-tool-drupal-bulk-content-edits?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[S3 File System Module Not Working with Media Entity Download Module? Here&#39;s the Fix](https://drupalodyssey.com/blog/community/s3-file-system-module-not-working-media-entity-download-module-heres-fix?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
