@@ -66,13 +66,13 @@ solve real-world problems.
 <!-- BLOG-POST-LIST:START -->
 [Bulletproof Your Drupal Data With Automated Nightly Backups](https://drupalodyssey.com/blog/devops/bulletproof-your-drupal-data-automated-nightly-backups?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
+[Is Your Content Calendar Working You to Death? Schedule It Away in Drupal!](https://drupalodyssey.com/blog/management/your-content-calendar-working-you-death-schedule-it-away-drupal?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [Streamlining Drupal Deployments Using Drush and GitHub Actions CI/CD](https://drupalodyssey.com/blog/devops/streamlining-drupal-deployments-using-drush-and-github-actions-cicd?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Streamlined Content: Effortless PDF Display &amp; Management in Drupal](https://drupalodyssey.com/blog/management/streamlined-content-effortless-pdf-display-management-drupal?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Automate and Simplify Your Drupal Workflow with Bash Scripts for Shared Hosting](https://drupalodyssey.com/blog/devops/automate-and-simplify-your-drupal-workflow-bash-scripts-shared-hosting?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[Evaluating Search and Replace Scanner: The Ultimate Tool for Drupal Bulk Content Edits?](https://drupalodyssey.com/blog/management/evaluating-search-and-replace-scanner-ultimate-tool-drupal-bulk-content-edits?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
