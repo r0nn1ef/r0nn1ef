@@ -64,9 +64,9 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
-[Unleashing the Power of Shortlink Manager: From Bulk Imports to Extensibility](https://drupalodyssey.com/blog/development/unleashing-power-shortlink-manager-bulk-imports-extensibility?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
 [Shortlink Manager: A Hitchhiker&#39;s Guide to Better Analytics](https://drupalodyssey.com/blog/development/shortlink-manager-hitchhikers-guide-better-analytics?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
+[Unleashing the Power of Shortlink Manager: From Bulk Imports to Extensibility](https://drupalodyssey.com/blog/development/unleashing-power-shortlink-manager-bulk-imports-extensibility?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [Building a Smarter Shortlink: A Deep Dive into a Drupal Module](https://drupalodyssey.com/blog/development-management/building-smarter-shortlink-deep-dive-drupal-module?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
