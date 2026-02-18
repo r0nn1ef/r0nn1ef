@@ -64,6 +64,8 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
+[The Automated Librarian: Part 4 – Local AI and the Metadata Makeover](https://drupalodyssey.com/blog/development/automated-librarian-part-4-local-ai-and-metadata-makeover?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [The Automated Librarian: Part 3 - Indexing PDF Content with Solr &amp; Tika in Drupal 11](https://drupalodyssey.com/blog/development/automated-librarian-part-3-indexing-pdf-content-solr-tika-drupal-11?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [The Automated Librarian: A Drupal 11 Data Discovery](https://drupalodyssey.com/blog/development/automated-librarian-drupal-11-data-discovery?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
@@ -71,8 +73,6 @@ solve real-world problems.
 [The Automated Librarian: Part 2 – The Migration Engine](https://drupalodyssey.com/blog/development/automated-librarian-part-2-migration-engine?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [The Automated Librarian: Part 1 - Architecting an Intelligent eBook Library in Drupal 11](https://drupalodyssey.com/blog/development/automated-librarian-part-1-architecting-intelligent-ebook-library-drupal-11?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[Drupal 10 to Drupal 11: Successfully Navigating the Drupal Upgrade Path](https://drupalodyssey.com/blog/development/drupal-10-drupal-11-successfully-navigating-drupal-upgrade-path?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
