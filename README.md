@@ -64,6 +64,8 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
+[Stop Googling Your AI: Why Structured Prompting is the New Source Code](https://drupalodyssey.com/blog/development/stop-googling-your-ai-why-structured-prompting-new-source-code?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [The D10 EOL Architectural Audit: Delete Code or Pay for It Twice](https://drupalodyssey.com/blog/development/d10-eol-architectural-audit-delete-code-or-pay-it-twice?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [SVG Is Just Markup: Building a Dynamic Badge Graphic Entirely in Drupal&#39;s Theme Layer](https://drupalodyssey.com/blog/development/svg-just-markup-building-dynamic-badge-graphic-entirely-drupals-theme-layer?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
@@ -71,8 +73,6 @@ solve real-world problems.
 [The Automated Librarian: Part 6 - Building a System That Feeds Itself](https://drupalodyssey.com/blog/development/automated-librarian-part-6-building-system-feeds-itself?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [The Automated Librarian: Part 5 – Fine-Tuning the UI with Facets and Search API](https://drupalodyssey.com/blog/development/automated-librarian-part-5-fine-tuning-ui-facets-and-search-api?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[Shortlink Manager Evolved: Smarter Analytics, QR Codes, and AI-Driven Development](https://drupalodyssey.com/blog/development-management/shortlink-manager-evolved-smarter-analytics-qr-codes-and-ai-driven?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
