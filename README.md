@@ -64,6 +64,8 @@ solve real-world problems.
 
 ## Latest Blog Posts :black_nib:
 <!-- BLOG-POST-LIST:START -->
+[The Context Control Center: Architecting AI in Drupal](https://drupalodyssey.com/blog/development/context-control-center-architecting-ai-drupal?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
+
 [Automating Social Media Posts from Drupal with n8n, Claude, and Postiz](https://drupalodyssey.com/blog/development/automating-social-media-posts-drupal-n8n-claude-and-postiz?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [The Architect&#39;s Dilemma: Knowing When to Put Drupal Down](https://drupalodyssey.com/blog/development/architects-dilemma-knowing-when-put-drupal-down?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
@@ -71,8 +73,6 @@ solve real-world problems.
 [Stop Googling Your AI: Why Structured Prompting is the New Source Code](https://drupalodyssey.com/blog/development/stop-googling-your-ai-why-structured-prompting-new-source-code?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 
 [The D10 EOL Architectural Audit: Delete Code or Pay for It Twice](https://drupalodyssey.com/blog/development/d10-eol-architectural-audit-delete-code-or-pay-it-twice?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
-
-[SVG Is Just Markup: Building a Dynamic Badge Graphic Entirely in Drupal&#39;s Theme Layer](https://drupalodyssey.com/blog/development/svg-just-markup-building-dynamic-badge-graphic-entirely-drupals-theme-layer?utm_source=github&utm_medium=social&utm_campaign=Blog%20Listing)
 <!-- BLOG-POST-LIST:END -->
 
 
